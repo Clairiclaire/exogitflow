@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-papier toilette et farine
-lessive
-=======
 PQ et farine
->>>>>>> v3
+lessive
